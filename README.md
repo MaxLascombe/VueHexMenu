@@ -5,7 +5,7 @@
 ```html
 <template>
   <div id="app">
-    <HexMenu id="main-menu" :height=60 border-color='white'>
+    <HexMenu id="main-menu" border-color='white'>
       <span slot='icon'>MENU</span>
       <a href="/home">Home</a>
       <a href="/info">Information</a>
