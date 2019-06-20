@@ -28,15 +28,15 @@ export default {
 
 ## Attributes
 
-* __:animateSpeed__ Speed of open animation (ms) (Default: 150)
+* __:animate-speed__ Speed of open animation (ms) (Default: 150)
 
-* __:borderColor__ Color of hexagon border (Default: 'white')
+* __border-color__ Color of hexagon border (Default: 'white')
 
 * __:height__ Height of hexagon (Default: 100)
 
 * __id__ HexMenu element id.
 
-* __openFill__ Color of hexagon fill when open (Default: 'white')
+* __open-fill__ Color of hexagon fill when open (Default: 'white')
 
 * __:stroke-width__ Width of hexagon border (Default: 1)
 
